@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxtUkFw4XZMVf4iImtyEzmF+5xEzS2fU0i7FO9EO44BQGqQG+ipk9x1YlwVN6rzaVJkmonMva9qo7q0hlQZ5DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_9_TestDriveDevelopement\\TestDriveDevelopement\\TestDriveDevelopement\\BreakfastTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

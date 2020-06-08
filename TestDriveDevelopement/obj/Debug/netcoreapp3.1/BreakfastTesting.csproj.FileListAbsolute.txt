@@ -1,0 +1,12 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.AssemblyInfo.cs
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.deps.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.runtimeconfig.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\BreakfastTesting.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\BreakfastTesting.genruntimeconfig.cache

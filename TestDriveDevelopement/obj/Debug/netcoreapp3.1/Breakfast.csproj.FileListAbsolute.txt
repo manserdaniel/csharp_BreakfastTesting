@@ -1,0 +1,12 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.exe
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.deps.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.runtimeconfig.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\bin\Debug\netcoreapp3.1\Breakfast.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.AssemblyInfo.cs
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Übung_9_TestDriveDevelopement\TestDriveDevelopement\TestDriveDevelopement\obj\Debug\netcoreapp3.1\Breakfast.genruntimeconfig.cache
